@@ -1,0 +1,27 @@
+"schemes": 
+[
+  {
+    "background": "#212121",
+    "black": "#151515",
+    "blue": "#6C99BB",
+    "brightBlack": "#505050",
+    "brightBlue": "#6C99BB",
+    "brightCyan": "#7DD6CF",
+    "brightGreen": "#8EC07C",
+    "brightPurple": "#9F4E85",
+    "brightRed": "#CE220E",
+    "brightWhite": "#F5F5F5",
+    "brightYellow": "#D99A00",
+    "cursorColor": "#D0D0D0",
+    "cyan": "#7DD6CF",
+    "foreground": "#D0D0D0",
+    "green": "#8EC07C",
+    "name": "xcvrys",
+    "purple": "#9F4E85",
+    "red": "#CE220E",
+    "selectionBackground": "#303030",
+    "white": "#D0D0D0",
+    "yellow": "#D99A00"
+  },
+  ...
+]
