@@ -11,6 +11,18 @@
           "type": "root"
         },
         {
+          "properties": {
+           "windows": "\ue63a",
+            "linux": "\uf17c",
+            "ubuntu": "\uf31b",
+            "macos": "\uf179"
+          },
+          "style": "plain",
+          "foreground": "#E0DEF4",
+          "template": "{{.Icon}}{{if .WSL}} (WSL){{end}}\u2800",
+          "type": "os"
+        },
+        {
           "foreground": "#E0DEF4",
           "properties": {
             "style": "folder",
