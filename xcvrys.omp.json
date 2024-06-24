@@ -12,10 +12,9 @@
         },
         {
           "properties": {
-           "windows": "\ue63a",
+           "windows": "\ue62a",
             "linux": "\uf17c",
-            "ubuntu": "\uf31b",
-            "macos": "\uf179"
+            "ubuntu": "\uf17c"
           },
           "style": "plain",
           "foreground": "#E0DEF4",
@@ -25,8 +24,7 @@
         {
           "foreground": "#E0DEF4",
           "properties": {
-            "style": "folder",
-            "home_icon": "\ueb06"
+            "style": "agnoster_short"
           },
           "style": "plain",
           "template": "{{ .Path }} ",
